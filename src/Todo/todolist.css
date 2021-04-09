@@ -1,0 +1,19 @@
+.TodoList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-top: 5px;
+    list-style: none;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
